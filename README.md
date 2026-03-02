@@ -23,8 +23,6 @@ Para garantir performance e uma sintaxe limpa, a arquitetura da análise foi div
 1. Clone este repositório:
    ```bash
    git clone https://github.com/LarissaCns/Analise-Olist-Ecommerce.git
-   pip install -r requirements.txt
-   ´´´
 
 2. Instale as dependências:
    ```bash
