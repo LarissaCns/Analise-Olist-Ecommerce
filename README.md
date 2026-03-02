@@ -27,7 +27,6 @@ Para garantir performance e uma sintaxe limpa, a arquitetura da análise foi div
 2. Instale as dependências:
    ```bash
    pip install -r requirements.txt
-   ´´´
 
 3. Os datasets originais não foram versionados por questões de tamanho e segurança. Baixe os dados do Kaggle e do IBGE e insira-os na pasta raiz antes de executar.
 
