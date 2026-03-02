@@ -28,10 +28,17 @@ Para garantir performance e uma sintaxe limpa, a arquitetura da análise foi div
    ```bash
    pip install -r requirements.txt
 
-3. Os datasets originais não foram versionados por questões de tamanho e segurança. Baixe os dados do Kaggle e do IBGE e insira-os na pasta raiz antes de executar.
+3. Os datasets originais não foram versionados por questões de tamanho e segurança. Baixe os dados do Kaggle e do IBGE e insira-os na pasta raiz antes de executar:
+   1. **Dados de E-commerce (Olist):** Base pública contendo informações de pedidos, clientes e geolocalização.
+    - *Fonte:* https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+   2. **Dados Demográficos (IBGE):** Busque a população residente em cada município de acordo com o Censo de 2022 através da API do SIDRA.
+    - *Documentação sugerida:* https://sidra.ibge.gov.br/tabela/4709
 
-4. Abra o arquivo analises.ipynb em seu ambiente Jupyter preferido e execute as células sequencialmente.
+5. Abra o arquivo analises.ipynb em seu ambiente Jupyter preferido e execute as células sequencialmente.
 
 **Desenvolvido por:** Larissa Cristina
+[Linkedin](https://www.linkedin.com/in/larissacn-silva/) | [Github](https://github.com/LarissaCns)
+
+
 
 
