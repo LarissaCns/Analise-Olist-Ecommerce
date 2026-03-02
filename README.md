@@ -36,6 +36,7 @@ Para garantir performance e uma sintaxe limpa, a arquitetura da análise foi div
 
 5. Abra o arquivo analises.ipynb em seu ambiente Jupyter preferido e execute as células sequencialmente.
 
+
 **Desenvolvido por:** Larissa Cristina
 [Linkedin](https://www.linkedin.com/in/larissacn-silva/) | [Github](https://github.com/LarissaCns)
 
