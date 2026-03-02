@@ -1,0 +1,29 @@
+# =========================
+# DADOS (Essencial para não travar o GitHub)
+# =========================
+dados/
+*.csv
+*.xlsx
+*.zip
+*.parquet
+
+# =========================
+# JUPYTER NOTEBOOK
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# PYTHON E AMBIENTE VIRTUAL
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# =========================
+# DUCKDB
+# =========================
+*.duckdb
+*.wal
