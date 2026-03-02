@@ -22,15 +22,13 @@ Para garantir performance e uma sintaxe limpa, a arquitetura da análise foi div
 
 1. Clone este repositório:
    ```bash
-   git clone <LINK_DO_SEU_REPOSITORIO_AQUI>
+   git clone https://github.com/LarissaCns/Analise-Olist-Ecommerce.git
    pip install -r requirements.txt
-
    ´´´
 
 2. Instale as dependências:
    ```bash
    pip install -r requirements.txt
-
    ´´´
 
 3. Os datasets originais não foram versionados por questões de tamanho e segurança. Baixe os dados do Kaggle e do IBGE e insira-os na pasta raiz antes de executar.
