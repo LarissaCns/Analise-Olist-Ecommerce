@@ -17,6 +17,8 @@ Para garantir performance e uma sintaxe limpa, a arquitetura da análise foi div
 2. **Oportunidade de Expansão:** Ao cruzar a base de clientes com cidades de mais de 200 mil habitantes, descobrimos que **100% das 10 maiores oportunidades de crescimento (baixa penetração + alta população) estão nas regiões Norte e Nordeste** do Brasil.
 3. **Concentração Atual:** O mapa geoespacial confirmou a tese de saturação nas regiões Sul e Sudeste, com o eixo São Paulo-Rio de Janeiro dominando o volume de pedidos.
 4. **Sazonalidade:** A análise da série temporal mostrou forte dependência de eventos sazonais (ex: Black Friday em novembro, ofuscando o mês de dezembro). 
+5. **Comportamento de Consumo (Categorias):** Mapeamos as categorias mais vendidas da plataforma.
+6. **Preferências Financeiras (Pagamentos):** Analisamos os métodos de pagamento favoritos. Isso fornece insumos cruciais para o fluxo de caixa, ajudando a prever taxas de conversão (Cartão de Crédito) e riscos de abandono (Boleto).
 
 ## 🚀 Como Executar o Projeto
 
@@ -34,7 +36,7 @@ Para garantir performance e uma sintaxe limpa, a arquitetura da análise foi div
    2. **Dados Demográficos (IBGE):** Busque a população residente em cada município de acordo com o Censo de 2022 através da API do SIDRA.
     - *Documentação sugerida:* https://sidra.ibge.gov.br/tabela/4709
 
-5. Abra o arquivo analises.ipynb em seu ambiente Jupyter preferido e execute as células sequencialmente.
+4. Abra o arquivo analises.ipynb em seu ambiente Jupyter preferido e execute as células sequencialmente.
 
 
 **Desenvolvido por:** Larissa Cristina
